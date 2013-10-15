@@ -1,0 +1,96 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+	width: 80%;
+	min-width: 800px;
+	margin: auto;
+}
+
+h1{
+	/*text-align: center;*/
+	color: #666;
+}
+
+a {
+	text-decoration: none;
+	color: #666;	
+}
+
+ul{
+	list-style: none;
+	padding-left: 0;
+}
+
+
+.navBar li{
+	display: inline;
+	padding-right: 10px;
+}
+
+
+.navBar ul a:hover {
+	text-decoration: underline;
+	color: black;
+}
+
+.wrap1{
+	position: relative;
+}
+
+.wrap2{
+	position: relative;
+	padding-top: 120px;		
+}
+
+.West{
+	height: 100px;
+	width: 300px;
+	position: relative;
+	float: left;	
+}
+
+.East{
+	height: 100px;
+	width: 300px;
+	position: relative;
+	float: left;
+}
+
+
+.weather{
+	width: 300px;
+	min-height: 100px;
+	position: relative;
+	float: left;
+}
+
+.tides{
+	width: 300px;
+	min-height: 100px;
+	position: relative;
+	float: left;
+}
+
+.weather2{
+	width: 300px;
+	min-height: 100px;
+	position: relative;
+	float: left;
+}
+
+.tides2{
+	width: 300px;
+	min-height: 100px;
+	position: relative;
+	float: left;
+}
+
+.Instrument li{
+	display: inline;
+	padding-left: 300px;
+}
+
+footer{
+	clear: both;
+}
+

@@ -1,0 +1,11 @@
+body {
+	font-family: sans-serif;
+
+}
+
+h1 {
+	background: url(../img/photo.jpg) no-repeat;
+	text-indent: -9999px;
+	width: 96px;
+	height: 96px;
+}

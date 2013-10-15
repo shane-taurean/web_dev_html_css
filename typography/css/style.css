@@ -1,0 +1,10 @@
+h1 {
+	font-size: 25px;
+	font-family: 'Special Elite', cursive;
+	margin-top: 50px;
+	text-align: center;
+	letter-spacing: 2px;
+	color: #003366;
+	/*text-transform: uppercase;*/
+	text-shadow: 0px 0px 7px #CCCCFF;
+}
